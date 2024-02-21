@@ -1,27 +1,66 @@
 
-![[Cisco.jpg]]
+# Cisco Network Project by Robert Chaves Perez
 
-![[costarica.png]]
-[[CostaRica]]
+made in 2023, my LinkedIn: https://www.linkedin.com/in/robert-chaves-perez-030315202/
 
-[[Heredia]]
+![[cisco.jpg]](Imagenes/Cisco.jpg)
 
-[[Guanacaste]]
-![[nicaragua.png]]
 
-[[Nicaragua]]
+![[panama]](Imagenes/panama.png)
 
-[[Managua]]
+### Panama Provinces
 
-[[Matagalpa]]
+- ### [Panama Router](Routers/Panama.md)
 
-![[panama.png]]
+- ### [Colon](Provinces/Colon.md)
+    * subnet
+    * ![[Colon_subnet]](Imagenes/ColonS.png)
 
-[[Panama]]
+- ### [Herrera](Provinces/Herrera.md)
+    * subnet
+    * ![[Herrera_subnet]](Imagenes/HerreraS.png)
 
-[[Colon]]
 
-[[Herrera]]
+        * ### [Router between Panama and Costa Rica](Routers/Panama_CostaRica.md)
+
+
+![[costarica]](Imagenes/costarica.png)
+
+### Costa Rica Provinces
+
+- ### [Costa Rica Router](Routers/CostaRica.md)
+
+- ### [Heredia](Provinces/Heredia.md)
+    * subnet
+    * ![[Heredia_subnet]](Imagenes/HerediaS.png)
+
+- ### [Guanacaste](Provinces/Guanacaste.md)
+    * subnet
+    * ![[Guanacaste_subnet]](Imagenes/GuanacasteS.png)
+
+
+        * ### [Router between Costa Rica and Nicaragua](Routers/CostaRica_Nicaragua.md)
+
+
+![[nicaragua]](Imagenes/nicaragua.png)
+
+### Nicaragua Provinces
+
+- ### [Nicaragua Router](Routers/Nicaragua.md)
+
+- ### [Managua](Provinces/Managua.md)
+    * subnet
+    * ![[Managua_subnet]](Imagenes/ManaguasS.png)
+
+- ### [Matagalpa](Provinces/MatagalpaS.md)
+    * subnet
+    * ![[Matagalpa_subnet]](Imagenes/MatagalpaS.png)
+
+
+
+## Topology
+![[topology]](Imagenes/Topology.png)
+
 
 
 
